@@ -9,7 +9,7 @@ Power Query: لتنظيف وتحويل البيانات (Data Cleaning & Transfo
 
 DAX (Data Analysis Expressions): لإنشاء المقاييس (Measures) والمعادلات التحليلية.
 
-Dataset: Titanic dataset (train.csv).
+Dataset: Titanic dataset (titanic.csv).
 
 🚀 Key Features & Steps
 1. Data Cleaning & Feature Engineering
@@ -41,7 +41,7 @@ Navigation: أزرار للتنقل السلس بين صفحات التقرير.
 ميناء الصعود: أغلب الركاب صعدوا من ميناء Southampton (S).
 
 📂 Project Structure
-Data/: يحتوي على ملف البيانات الخام (train.csv).
+Data/: يحتوي على ملف البيانات الخام (titanic.csv).
 
 Dashboard/: يحتوي على ملف الـ .pbix الخاص ببرنامج Power BI.
 
